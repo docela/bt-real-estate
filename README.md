@@ -1,4 +1,30 @@
-# bt-real-estate
-This is a web application, built using python and Django, for a fictional company BT Real Estate, which lists the homes they currently have on sale, as well as information on it's realtors.
+# BT Real Estate
 
-This README will be updated soon.
+## Table of Contents
+* [General info](#general-information)
+* [Tech](#Technologies)
+* [Setup](#Setup)
+* [Update](#Updates)
+
+## General Information
+This is a property search web application for a fictional real estate company, BT Real Estate. The homepage lists the three latest listings, whilst the **'Featured Listings'** page shows all their listings. A user can register on the homepage and with this, they will have their own dashboard where they can track all their property inquiries.
+
+
+![homepage](./homepage.png)
+
+
+## Technologies
+This project was created using the following technologies:
+* Python
+* Django
+* PostgreSQL
+
+## Setup
+To run this project, after cloning this locally (on Windows), set up a virtual environment and access it by:
+
+```
+venv\Scripts\activate.bat
+```
+
+### Updates
+Coming soon
